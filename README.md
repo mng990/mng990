@@ -11,14 +11,15 @@
   - 기획, 스마트 컨트랙트 작성, 로컬 네트워크 구축 및 노드 운영
   - 03.16.2022 ~ 11.14.2022
 
----
-### Algorithm
+----
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mng051)](https://solved.ac/mng051)
 <img src="http://mazandi.herokuapp.com/api?handle=mng051&theme=warm"/>
----
+----
 ### Organizations
-- 카카오테크 부트캠프 1기 풀스택 과정 (06.28.2024 ~ )
-- 부산대학교 컴퓨터공학과 (03.2017 ~ 08.2023) 
+카카오테크 부트캠프 1기 풀스택 과정 (06.28.2024 ~ )
+----
+### Education
+부산대학교 정보컴퓨터공학과 (03.2017 ~ 08.2023) 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=ffd20a&height=100&section=footer)
 
