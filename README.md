@@ -2,9 +2,9 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mng051)](https://solved.ac/mng051)
-<img src="http://mazandi.herokuapp.com/api?handle=mng990&theme=warm"/>
-[![mng990's GitHub stats](https://github-readme-stats.vercel.app/api?username=mng051)](https://github.com/mng990/github-readme-stats)
+<img src="http://mazandi.herokuapp.com/api?handle=mng051&theme=warm"/>
 
+[![mng990's GitHub stats](https://github-readme-stats.vercel.app/api?username=mng051)](https://github.com/mng990/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mng990)](https://github.com/mng990/github-readme-stats)
 
 
