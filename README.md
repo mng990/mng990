@@ -6,7 +6,7 @@
 ----
 
 #### Projects
-- ☘️ [그리운 꿈을 드립니다, Dream (App)](https://github.com/KakaoTech-Hackathon-Dream)
+- ☘️ [그리운 꿈을 드립니다, 드림 (App)](https://github.com/KakaoTech-Hackathon-Dream)
   - 기획, 서버 아키텍처 설계, CI/CD, AWS 인프라 구축 및 배포
   - 09.04.2024 ~ 09.07.2024
 - 🦭 [MSA 기반 부트캠프 커뮤니티 Harpsharp (Web)](https://github.com/2024KBC10/HarpSharp_SERVER)
