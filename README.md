@@ -3,11 +3,11 @@
 ----
 #### 프로젝트
 - [☘️ 그리운 꿈을 드립니다, Dream(App)](https://github.com/KakaoTech-Hackathon-Dream)
-  - 기획, 서버 아키텍처 설계, CI/CD 및 AWS 인프라 구축, 배포 
+  - 역할: 기획, 서버 아키텍처 설계, CI/CD 및 AWS 인프라 구축
 - [🦭 MSA 기반 부트캠프 커뮤니티 Harpsharp(Web)](https://github.com/2024KBC10/HarpSharp_SERVER)
-  - 서버 아키텍처 설계, API 서버 개발, CI/CD 및 AWS 인프라 구축, 배포
+  - 역할: 서버 아키텍처 설계, API 서버 개발, CI/CD 및 AWS 인프라 구축
 - [🐟 ERC-1155 기반 경매 플랫폼](https://github.com/mng990/ethereum_FisheriesMarket)
-  - 기획, 스마트 컨트랙트 작성, 로컬 네트워크 구축 및 노드 운영  
+  - 역할: 기획, 스마트 컨트랙트 작성, 로컬 네트워크 구축 및 노드 운영  
 
 ----
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mng051)](https://solved.ac/mng051)
