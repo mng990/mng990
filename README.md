@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0abeff&height=100&section=header&text=mango&fontColor=f5f5f2&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffd20a&height=100&section=header&text=mango&fontColor=f5f5f2&fontSize=90)
 
 ----
 #### Projects
@@ -18,7 +18,7 @@
 
 [![mng990's GitHub stats](https://github-readme-stats.vercel.app/api?username=mng990)](https://github.com/mng990/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0abeff&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=ffd20a&height=100&section=footer)
 
 
 
