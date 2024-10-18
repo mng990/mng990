@@ -17,10 +17,7 @@
   - 2022.03.16 ~ 2022.11.14
  
 #### 🛠️ 개발 중
-- [카테캠 중고 거래 서비스](https://github.com/Dream-Backend-Study)
-  - 기획, 백엔드 
-  - 2024.10.12 ~
-- [Aiin - 생성형 AI 기반 매칭 서비스](https://github.com/KTB16Team/FinalProjectBackend)
+- [aimo - AI가 판단하는 일상 속 과실 비율(가제: AI문철)](https://github.com/KTB16Team/FinalProjectBackend)
   - 기획, 백엔드
   - 2024.09.25 ~
 ----
