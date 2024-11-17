@@ -7,8 +7,8 @@
 
 #### Projects
 - ☘️ [Dream (App)](https://github.com/KakaoTech-Hackathon-Dream)
-- Role: DevOps 
-- Duration: 2024.09.04 ~ 2024.09.07
+  - Role: DevOps 
+  - Duration: 2024.09.04 ~ 2024.09.07
 - 🦭 [Harpsharp (Web, MSA-style)](https://github.com/2024KBC10/HarpSharp_SERVER)
   - Role: DevOps, Back-end
   - Duration: 2024.07.17 ~ 2024.09.02
