@@ -25,7 +25,7 @@
   Duration: 2024.12.09
   
 #### Education
-- Pusan National Univalsity Computer Science & Engineering
+- Pusan National Univalsity, Computer Science & Engineering
   Duration: 2017.03 ~ 2023.08
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=ffd20a&height=100&section=footer)
