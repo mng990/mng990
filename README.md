@@ -19,9 +19,9 @@
 ----
 
 #### Organization
-- 카카오테크 부트캠프 1기 풀스택 과정
+- 카카오테크 부트캠프 1기 풀스택 과정  
   2024.07 ~ 2024.11.18
-- Rakuten Symphony Korea
+- Rakuten Symphony Korea  
   2024.12.09
 
 #### Education
