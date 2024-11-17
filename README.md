@@ -6,23 +6,26 @@
 ----
 
 #### Projects
-- ☘️ [그리운 꿈을 드립니다, 드림 (App)](https://github.com/KakaoTech-Hackathon-Dream)
-  - 기획, 서버 아키텍처 설계, CI/CD, AWS 인프라 구축 및 배포
-  - 2024.09.04 ~ 2024.09.07
-- 🦭 [MSA 기반 부트캠프 커뮤니티 Harpsharp (Web)](https://github.com/2024KBC10/HarpSharp_SERVER)
-  - 서버 아키텍처 설계, API 서버 개발, CI/CD, AWS 인프라 구축 및 배포
-  - 2024.07.17 ~ 2024.09.02
-- 🐟 [ERC-1155 기반 수산물 경매 플랫폼](https://github.com/mng990/ethereum_FisheriesMarket)
-  - 기획, 스마트 컨트랙트 작성, 로컬 네트워크 구축 및 노드 운영
-  - 2022.03.16 ~ 2022.11.14
+- ☘️ [Dream (App)](https://github.com/KakaoTech-Hackathon-Dream)
+- Role: DevOps 
+- Duration: 2024.09.04 ~ 2024.09.07
+- 🦭 [Harpsharp (Web)](https://github.com/2024KBC10/HarpSharp_SERVER)
+  - Role: DevOps, Back-end
+  - Duration: 2024.07.17 ~ 2024.09.02
+- 🐟 [Fisher Market, ERC-1155 based](https://github.com/mng990/ethereum_FisheriesMarket)
+  - Role: Back-end
+  - Duration: 2022.03.16 ~ 2022.11.14
  
 ----
 
 #### Organization
-- KaKao-Tech bootcamp (2024.07 ~ 2024.11.18)
-- Rakuten Symphony Korea (2024.12.09)
+- KaKao-Tech Bootcamp  
+  Duration: 2024.07 ~ 2024.11.18
+- Rakuten Symphony Korea  
+  Duration: 2024.12.09
   
 #### Education
-- 부산대학교 정보컴퓨터공학과 (2017.03 ~ 2023.08) 
+- Pusan National Univalsity Computer Science & Engineering
+  Duration: 2017.03 ~ 2023.08
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=ffd20a&height=100&section=footer)
