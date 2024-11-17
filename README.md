@@ -19,11 +19,9 @@
 ----
 
 #### Organization
-- 카카오테크 부트캠프 1기 풀스택 과정  
-  2024.07 ~ 2024.11.18
-- Rakuten Symphony Korea  
-  2024.12.09
-
+- KaKao-Tech bootcamp (2024.07 ~ 2024.11.18)
+- Rakuten Symphony Korea (2024.12.09)
+  
 #### Education
 - 부산대학교 정보컴퓨터공학과 (2017.03 ~ 2023.08) 
 
