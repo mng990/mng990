@@ -9,10 +9,10 @@
 - ☘️ [Dream (App)](https://github.com/KakaoTech-Hackathon-Dream)
 - Role: DevOps 
 - Duration: 2024.09.04 ~ 2024.09.07
-- 🦭 [Harpsharp (Web)](https://github.com/2024KBC10/HarpSharp_SERVER)
+- 🦭 [Harpsharp (Web, MSA-style)](https://github.com/2024KBC10/HarpSharp_SERVER)
   - Role: DevOps, Back-end
   - Duration: 2024.07.17 ~ 2024.09.02
-- 🐟 [Fisher Market, ERC-1155 based](https://github.com/mng990/ethereum_FisheriesMarket)
+- 🐟 [Fisher Market, built on ERC-1155](https://github.com/mng990/ethereum_FisheriesMarket)
   - Role: Back-end
   - Duration: 2022.03.16 ~ 2022.11.14
  
